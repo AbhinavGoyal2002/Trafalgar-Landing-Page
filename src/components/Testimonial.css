@@ -1,0 +1,16 @@
+/* Testimonial.css */
+
+/* Style the circle icons */
+.ri-circle-fill {
+  color: skyblue; /* Change the color of the ri-circle-fill to blue */
+}
+
+.ri-circle-line {
+  color: skyblue; /* Change the color of the ri-circle-line to red or any other color you prefer */
+}
+
+.ri-arrow-right-line,
+.ri-arrow-left-line {
+  color: skyblue;
+  font-size: 15px;
+}
